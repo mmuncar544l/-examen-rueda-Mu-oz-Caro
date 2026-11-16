@@ -1,0 +1,4 @@
+*.bak
+*.log
+temporales/
+acceso-local.txt
